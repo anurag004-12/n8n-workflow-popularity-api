@@ -1,0 +1,2510 @@
+[
+  {
+    "workflow": "How to Connect Slack to n8n (2025) (Step-by-Step)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 70346,
+      "likes": 1255,
+      "comments": 114,
+      "like_to_view_ratio": 0.0178,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 73198,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Slack Integration: Unlock the EASY Way [2025]",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3195,
+      "likes": 79,
+      "comments": 35,
+      "like_to_view_ratio": 0.0247,
+      "comment_to_view_ratio": 0.011
+    },
+    "popularity_score": 3458,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Want to MAXIMIZE Your Workflow? Try These Slack Automation Tricks",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 107,
+      "likes": 1,
+      "comments": 2,
+      "like_to_view_ratio": 0.0093,
+      "comment_to_view_ratio": 0.0187
+    },
+    "popularity_score": 115,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect Slack To N8N In 5 Minutes!",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4350,
+      "likes": 45,
+      "comments": 7,
+      "like_to_view_ratio": 0.0103,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 4461,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build slack AI Agent | Slack and n8n integration 2025",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 128,
+      "likes": 9,
+      "comments": 0,
+      "like_to_view_ratio": 0.0703,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 146,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect Slack To N8N: EASY Integration in MINUTES",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 20564,
+      "likes": 340,
+      "comments": 131,
+      "like_to_view_ratio": 0.0165,
+      "comment_to_view_ratio": 0.0064
+    },
+    "popularity_score": 21637,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "TUTORIAL: Automate Slack Commands with Google Sheets + n8n (part 1)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 82,
+      "likes": 3,
+      "comments": 0,
+      "like_to_view_ratio": 0.0366,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 88,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Set Up and Connect a Slack Bot to n8n (Step-by-Step Tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 7139,
+      "likes": 84,
+      "comments": 27,
+      "like_to_view_ratio": 0.0118,
+      "comment_to_view_ratio": 0.0038
+    },
+    "popularity_score": 7388,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Connect Slack to n8n (AI Agent Mode Nobody Talks About)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3059,
+      "likes": 135,
+      "comments": 32,
+      "like_to_view_ratio": 0.0441,
+      "comment_to_view_ratio": 0.0105
+    },
+    "popularity_score": 3425,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Connect Slack to n8n (Step-by-Step)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1037,
+      "likes": 14,
+      "comments": 1,
+      "like_to_view_ratio": 0.0135,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 1068,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Connect Slack to n8n the Right Way (2025)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2451,
+      "likes": 56,
+      "comments": 13,
+      "like_to_view_ratio": 0.0228,
+      "comment_to_view_ratio": 0.0053
+    },
+    "popularity_score": 2602,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Connect Slack Into n8n In 5 Minutes",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 6943,
+      "likes": 122,
+      "comments": 13,
+      "like_to_view_ratio": 0.0176,
+      "comment_to_view_ratio": 0.0019
+    },
+    "popularity_score": 7226,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Handle Slack Interactive Responses in n8n (No code + Slack Button Integration)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 767,
+      "likes": 22,
+      "comments": 16,
+      "like_to_view_ratio": 0.0287,
+      "comment_to_view_ratio": 0.0209
+    },
+    "popularity_score": 859,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "AI voice agent calls anyone with any message via Slack #n8n #ai #aiautomation #automation #retellai",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 22930,
+      "likes": 468,
+      "comments": 78,
+      "like_to_view_ratio": 0.0204,
+      "comment_to_view_ratio": 0.0034
+    },
+    "popularity_score": 24100,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Slack Knowledge Assistant in Minutes  (n8n + Supabase, No Code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2381,
+      "likes": 10,
+      "comments": 0,
+      "like_to_view_ratio": 0.0042,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 2401,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n at Scale - Episode 1: Unlocking Slack's Potential with n8n Automation",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 7837,
+      "likes": 126,
+      "comments": 26,
+      "like_to_view_ratio": 0.0161,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 8167,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Agent on Slack (EASY)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 6333,
+      "likes": 0,
+      "comments": 1,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0002
+    },
+    "popularity_score": 6336,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Add a Knowledge Base to Your Slack AI Agent in n8n (Step By Step)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 302,
+      "likes": 10,
+      "comments": 0,
+      "like_to_view_ratio": 0.0331,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 322,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "AI Agent Powered Content MACHINE! (n8n, Slack, Airtable)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 33023,
+      "likes": 1016,
+      "comments": 117,
+      "like_to_view_ratio": 0.0308,
+      "comment_to_view_ratio": 0.0035
+    },
+    "popularity_score": 35406,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Cool Automation with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 178220,
+      "likes": 3441,
+      "comments": 40,
+      "like_to_view_ratio": 0.0193,
+      "comment_to_view_ratio": 0.0002
+    },
+    "popularity_score": 185222,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To INSTANTLY Trigger N8N From Slack (Step-by-Step)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 10191,
+      "likes": 128,
+      "comments": 42,
+      "like_to_view_ratio": 0.0126,
+      "comment_to_view_ratio": 0.0041
+    },
+    "popularity_score": 10573,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Quick N8N Automation: Slack Messages Made Easy (Sept 2025)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 123,
+      "likes": 0,
+      "comments": 0,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 123,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Build a Slack RAG Agent with n8n (Step-by-Step Tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2248,
+      "likes": 54,
+      "comments": 14,
+      "like_to_view_ratio": 0.024,
+      "comment_to_view_ratio": 0.0062
+    },
+    "popularity_score": 2398,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Slack Integration Made Easy | Full Setup Guide",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 353,
+      "likes": 6,
+      "comments": 2,
+      "like_to_view_ratio": 0.017,
+      "comment_to_view_ratio": 0.0057
+    },
+    "popularity_score": 371,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Setting Up N8N to Work With Slack",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1402,
+      "likes": 7,
+      "comments": 0,
+      "like_to_view_ratio": 0.005,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 1416,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Slack Integration: Unlock the EASY Way [2025]",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 3195,
+      "likes": 79,
+      "comments": 35,
+      "like_to_view_ratio": 0.0247,
+      "comment_to_view_ratio": 0.011
+    },
+    "popularity_score": 3458,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Connect Slack to n8n (2025) (Step-by-Step)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 70346,
+      "likes": 1255,
+      "comments": 114,
+      "like_to_view_ratio": 0.0178,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 73198,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Want to MAXIMIZE Your Workflow? Try These Slack Automation Tricks",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 107,
+      "likes": 1,
+      "comments": 2,
+      "like_to_view_ratio": 0.0093,
+      "comment_to_view_ratio": 0.0187
+    },
+    "popularity_score": 115,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "AI voice agent calls anyone with any message via Slack #n8n #ai #aiautomation #automation #retellai",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 22929,
+      "likes": 468,
+      "comments": 78,
+      "like_to_view_ratio": 0.0204,
+      "comment_to_view_ratio": 0.0034
+    },
+    "popularity_score": 24099,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Connect Slack to n8n the Right Way (2025)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 2445,
+      "likes": 56,
+      "comments": 13,
+      "like_to_view_ratio": 0.0229,
+      "comment_to_view_ratio": 0.0053
+    },
+    "popularity_score": 2596,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect Slack To N8N: EASY Integration in MINUTES",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 20564,
+      "likes": 340,
+      "comments": 131,
+      "like_to_view_ratio": 0.0165,
+      "comment_to_view_ratio": 0.0064
+    },
+    "popularity_score": 21637,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Integrate Slack with n8n Workflow | Trigger n8n Workflow from Slack Step-by-Step | Hindi",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 1568,
+      "likes": 40,
+      "comments": 10,
+      "like_to_view_ratio": 0.0255,
+      "comment_to_view_ratio": 0.0064
+    },
+    "popularity_score": 1678,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build slack AI Agent | Slack and n8n integration 2025",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 128,
+      "likes": 9,
+      "comments": 0,
+      "like_to_view_ratio": 0.0703,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 146,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Agent on Slack (EASY)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6333,
+      "likes": 0,
+      "comments": 1,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0002
+    },
+    "popularity_score": 6336,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Create a Slack App for n8n Workflows",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 184,
+      "likes": 6,
+      "comments": 0,
+      "like_to_view_ratio": 0.0326,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 196,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Connect Slack to n8n (Step-by-Step)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 1037,
+      "likes": 14,
+      "comments": 1,
+      "like_to_view_ratio": 0.0135,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 1068,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Slack Knowledge Assistant in Minutes  (n8n + Supabase, No Code)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 2381,
+      "likes": 10,
+      "comments": 0,
+      "like_to_view_ratio": 0.0042,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 2401,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect Slack To N8N In 5 Minutes!",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 4349,
+      "likes": 45,
+      "comments": 7,
+      "like_to_view_ratio": 0.0103,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 4460,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Add a Knowledge Base to Your Slack AI Agent in n8n (Step By Step)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 302,
+      "likes": 10,
+      "comments": 0,
+      "like_to_view_ratio": 0.0331,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 322,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Set Up and Connect a Slack Bot to n8n (Step-by-Step Tutorial)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 7139,
+      "likes": 84,
+      "comments": 27,
+      "like_to_view_ratio": 0.0118,
+      "comment_to_view_ratio": 0.0038
+    },
+    "popularity_score": 7388,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Cool Automation with n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 178220,
+      "likes": 3441,
+      "comments": 40,
+      "like_to_view_ratio": 0.0193,
+      "comment_to_view_ratio": 0.0002
+    },
+    "popularity_score": 185222,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "[FREE TEMPLATE] How to Build Slack Agents in N8N - [2025 Full Guide]",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 164,
+      "likes": 3,
+      "comments": 0,
+      "like_to_view_ratio": 0.0183,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 170,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect Slack To n8n For Ai Agents (2026 update)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 108,
+      "likes": 3,
+      "comments": 0,
+      "like_to_view_ratio": 0.0278,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 114,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Connect Slack Into n8n In 5 Minutes",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6943,
+      "likes": 122,
+      "comments": 13,
+      "like_to_view_ratio": 0.0176,
+      "comment_to_view_ratio": 0.0019
+    },
+    "popularity_score": 7226,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "The Only 12 n8n AI Automations You'll Ever Need (Steal These)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 163485,
+      "likes": 6650,
+      "comments": 58,
+      "like_to_view_ratio": 0.0407,
+      "comment_to_view_ratio": 0.0004
+    },
+    "popularity_score": 176959,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Build a Slack RAG Agent with n8n (Step-by-Step Tutorial)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 2247,
+      "likes": 54,
+      "comments": 14,
+      "like_to_view_ratio": 0.024,
+      "comment_to_view_ratio": 0.0062
+    },
+    "popularity_score": 2397,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n at Scale - Episode 1: Unlocking Slack's Potential with n8n Automation",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 7837,
+      "likes": 126,
+      "comments": 26,
+      "like_to_view_ratio": 0.0161,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 8167,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "TUTORIAL: Automate Slack Commands with Google Sheets + n8n (part 1)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 82,
+      "likes": 3,
+      "comments": 0,
+      "like_to_view_ratio": 0.0366,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 88,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Real-Time Slack Notifications from Form Submissions | n8n Automation Guide",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 162,
+      "likes": 3,
+      "comments": 0,
+      "like_to_view_ratio": 0.0185,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 168,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Connect Slack to n8n (AI Agent Mode Nobody Talks About)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 3059,
+      "likes": 135,
+      "comments": 32,
+      "like_to_view_ratio": 0.0441,
+      "comment_to_view_ratio": 0.0105
+    },
+    "popularity_score": 3425,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How I Built an AI Agent to Automate my Emails in n8n (Step by Step, No Code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 89059,
+      "likes": 1551,
+      "comments": 76,
+      "like_to_view_ratio": 0.0174,
+      "comment_to_view_ratio": 0.0009
+    },
+    "popularity_score": 92389,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This n8n AI Agent Will Manage Your Email Inbox (100% Automatic)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 63863,
+      "likes": 1002,
+      "comments": 85,
+      "like_to_view_ratio": 0.0157,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 66122,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Upgraded My Gmail AI Agent (n8n beginner guide, free template)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2442,
+      "likes": 48,
+      "comments": 8,
+      "like_to_view_ratio": 0.0197,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 2562,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Email Assistant in n8n | Gmail Automation Walkthrough",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 6272,
+      "likes": 100,
+      "comments": 29,
+      "like_to_view_ratio": 0.0159,
+      "comment_to_view_ratio": 0.0046
+    },
+    "popularity_score": 6559,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Gmail on Autopilot: 15 Insane n8n Automation Hacks",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 18639,
+      "likes": 353,
+      "comments": 29,
+      "like_to_view_ratio": 0.0189,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 19432,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Seriously, please watch this before you start learning n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 127865,
+      "likes": 3284,
+      "comments": 459,
+      "like_to_view_ratio": 0.0257,
+      "comment_to_view_ratio": 0.0036
+    },
+    "popularity_score": 135810,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Built an Inbox AI Agent That Handles Your Emails (No-Code, n8n)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 8521,
+      "likes": 265,
+      "comments": 87,
+      "like_to_view_ratio": 0.0311,
+      "comment_to_view_ratio": 0.0102
+    },
+    "popularity_score": 9312,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Notion-Gmail integration: Automated workflow (+ Free Template)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 9385,
+      "likes": 134,
+      "comments": 2,
+      "like_to_view_ratio": 0.0143,
+      "comment_to_view_ratio": 0.0002
+    },
+    "popularity_score": 9659,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Built an AI Agent that Automated my Inbox with n8n (No Code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 43061,
+      "likes": 817,
+      "comments": 43,
+      "like_to_view_ratio": 0.019,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 44824,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Gmail Inbox Manager in n8n (no code, step-by-step)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3588,
+      "likes": 67,
+      "comments": 12,
+      "like_to_view_ratio": 0.0187,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 3758,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Agent That Reads & Replies to Gmail (No Code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 43455,
+      "likes": 329,
+      "comments": 12,
+      "like_to_view_ratio": 0.0076,
+      "comment_to_view_ratio": 0.0003
+    },
+    "popularity_score": 44149,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Step-by-Step: Build an AI Agent for Gmail Automation with n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 24313,
+      "likes": 411,
+      "comments": 40,
+      "like_to_view_ratio": 0.0169,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 25255,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "The Only 12 n8n AI Automations You'll Ever Need (Steal These)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 163485,
+      "likes": 6650,
+      "comments": 58,
+      "like_to_view_ratio": 0.0407,
+      "comment_to_view_ratio": 0.0004
+    },
+    "popularity_score": 176959,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This Gmail AI Agent classifies/labels incoming Emails and even generates a personal response #n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 28420,
+      "likes": 1064,
+      "comments": 28,
+      "like_to_view_ratio": 0.0374,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 30632,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Build an Email Agent in Under a Minute with n8n  #n8n #agentgpt #artificialintelligence",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 65808,
+      "likes": 1947,
+      "comments": 38,
+      "like_to_view_ratio": 0.0296,
+      "comment_to_view_ratio": 0.0006
+    },
+    "popularity_score": 69816,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Built an AI Agent to Manage my Gmail (free n8n template, no code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 6062,
+      "likes": 117,
+      "comments": 17,
+      "like_to_view_ratio": 0.0193,
+      "comment_to_view_ratio": 0.0028
+    },
+    "popularity_score": 6347,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Master 80% of n8n in 36 Minutes",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 317292,
+      "likes": 8169,
+      "comments": 309,
+      "like_to_view_ratio": 0.0257,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 334557,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Tutorial: Never label gmail emails again. (Let Ai do it for you!)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 10533,
+      "likes": 196,
+      "comments": 18,
+      "like_to_view_ratio": 0.0186,
+      "comment_to_view_ratio": 0.0017
+    },
+    "popularity_score": 10979,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "3 n8n Google Automations You\u2019ll Actually Use (Gmail, Sheets, Drive)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 10474,
+      "likes": 247,
+      "comments": 15,
+      "like_to_view_ratio": 0.0236,
+      "comment_to_view_ratio": 0.0014
+    },
+    "popularity_score": 11013,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Built an Ultimate Gmail AI Agent with No Code (free n8n template)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 831,
+      "likes": 24,
+      "comments": 6,
+      "like_to_view_ratio": 0.0289,
+      "comment_to_view_ratio": 0.0072
+    },
+    "popularity_score": 897,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Tutorial: Automate Emails with n8n (NO CODE!!)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 33432,
+      "likes": 557,
+      "comments": 36,
+      "like_to_view_ratio": 0.0167,
+      "comment_to_view_ratio": 0.0011
+    },
+    "popularity_score": 34654,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Set up Google Credentials in n8n in 5 minutes (2025)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 216570,
+      "likes": 4059,
+      "comments": 288,
+      "like_to_view_ratio": 0.0187,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 225552,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Automate Gmail Replies in 3 Simple Steps | Full n8n Tutorial",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 225,
+      "likes": 0,
+      "comments": 0,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 225,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 787978,
+      "likes": 20481,
+      "comments": 403,
+      "like_to_view_ratio": 0.026,
+      "comment_to_view_ratio": 0.0005
+    },
+    "popularity_score": 830149,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Dieser KI-Agent verwaltet dein Gmail Postfach (n8n No-Code Tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3201,
+      "likes": 107,
+      "comments": 18,
+      "like_to_view_ratio": 0.0334,
+      "comment_to_view_ratio": 0.0056
+    },
+    "popularity_score": 3469,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "The Only 12 n8n AI Automations You'll Ever Need (Steal These)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 163485,
+      "likes": 6650,
+      "comments": 58,
+      "like_to_view_ratio": 0.0407,
+      "comment_to_view_ratio": 0.0004
+    },
+    "popularity_score": 176959,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This n8n AI Agent Will Manage Your Email Inbox (100% Automatic)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 63863,
+      "likes": 1002,
+      "comments": 85,
+      "like_to_view_ratio": 0.0157,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 66122,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How I Built an AI Agent to Automate my Emails in n8n (Step by Step, No Code)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 89059,
+      "likes": 1551,
+      "comments": 76,
+      "like_to_view_ratio": 0.0174,
+      "comment_to_view_ratio": 0.0009
+    },
+    "popularity_score": 92389,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Step-by-Step: Build an AI Agent for Gmail Automation with n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 24313,
+      "likes": 411,
+      "comments": 40,
+      "like_to_view_ratio": 0.0169,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 25255,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Agent That Reads & Replies to Gmail (No Code)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 43455,
+      "likes": 329,
+      "comments": 12,
+      "like_to_view_ratio": 0.0076,
+      "comment_to_view_ratio": 0.0003
+    },
+    "popularity_score": 44149,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Upgraded My Gmail AI Agent (n8n beginner guide, free template)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 2442,
+      "likes": 48,
+      "comments": 8,
+      "like_to_view_ratio": 0.0197,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 2562,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Build A Cold Email Automation Using N8N (FREE Template)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 30325,
+      "likes": 765,
+      "comments": 224,
+      "like_to_view_ratio": 0.0252,
+      "comment_to_view_ratio": 0.0074
+    },
+    "popularity_score": 32527,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This Gmail AI Agent classifies/labels incoming Emails and even generates a personal response #n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 28420,
+      "likes": 1064,
+      "comments": 28,
+      "like_to_view_ratio": 0.0374,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 30632,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 787978,
+      "likes": 20481,
+      "comments": 403,
+      "like_to_view_ratio": 0.026,
+      "comment_to_view_ratio": 0.0005
+    },
+    "popularity_score": 830149,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "N8N Tutorial: Gmail Automation (Beginner friendly)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 281,
+      "likes": 4,
+      "comments": 3,
+      "like_to_view_ratio": 0.0142,
+      "comment_to_view_ratio": 0.0107
+    },
+    "popularity_score": 298,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Automate Customer Invoice Update with n8n, Google Sheets and Gmail",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 1029,
+      "likes": 6,
+      "comments": 0,
+      "like_to_view_ratio": 0.0058,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 1041,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Email Agent in n8n with Gmail\u2014No Code Needed! Automate Emails Fast! #n8n #nocode",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6211,
+      "likes": 86,
+      "comments": 1,
+      "like_to_view_ratio": 0.0138,
+      "comment_to_view_ratio": 0.0002
+    },
+    "popularity_score": 6386,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 75195,
+      "likes": 1964,
+      "comments": 101,
+      "like_to_view_ratio": 0.0261,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 79426,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Gmail Automation: Easy Workflow Integration Revealed!#ai #greenscreen #Gmail #n8n #automation #agent",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 172,
+      "likes": 3,
+      "comments": 2,
+      "like_to_view_ratio": 0.0174,
+      "comment_to_view_ratio": 0.0116
+    },
+    "popularity_score": 184,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Automate Gmail Replies in 3 Simple Steps | Full n8n Tutorial",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 225,
+      "likes": 0,
+      "comments": 0,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 225,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build an AI Email Assistant in n8n | Gmail Automation Walkthrough",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 6272,
+      "likes": 100,
+      "comments": 29,
+      "like_to_view_ratio": 0.0159,
+      "comment_to_view_ratio": 0.0046
+    },
+    "popularity_score": 6559,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This AI Agent automates my customer support emails. #n8n #aiagent #artificialintelligence",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 48260,
+      "likes": 1353,
+      "comments": 21,
+      "like_to_view_ratio": 0.028,
+      "comment_to_view_ratio": 0.0004
+    },
+    "popularity_score": 51029,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Gmail on Autopilot: 15 Insane n8n Automation Hacks",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 18639,
+      "likes": 353,
+      "comments": 29,
+      "like_to_view_ratio": 0.0189,
+      "comment_to_view_ratio": 0.0016
+    },
+    "popularity_score": 19432,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Send Automated Emails from Google Sheets | n8n Email Automation Tutorial (Step-by-Step)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 30993,
+      "likes": 367,
+      "comments": 12,
+      "like_to_view_ratio": 0.0118,
+      "comment_to_view_ratio": 0.0004
+    },
+    "popularity_score": 31763,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Built an Inbox AI Agent That Handles Your Emails (No-Code, n8n)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 8521,
+      "likes": 265,
+      "comments": 87,
+      "like_to_view_ratio": 0.0311,
+      "comment_to_view_ratio": 0.0102
+    },
+    "popularity_score": 9312,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "I Built an AI Agent that Automated my Inbox with n8n (No Code)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 43061,
+      "likes": 817,
+      "comments": 43,
+      "like_to_view_ratio": 0.019,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 44824,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Master 80% of n8n in 36 Minutes",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 317292,
+      "likes": 8169,
+      "comments": 309,
+      "like_to_view_ratio": 0.0257,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 334557,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Tutorial: Connect WhatsApp AI Agent in n8n with Google Sheets",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 274616,
+      "likes": 6148,
+      "comments": 86,
+      "like_to_view_ratio": 0.0224,
+      "comment_to_view_ratio": 0.0003
+    },
+    "popularity_score": 287170,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "2000+ Free n8n Workflows on GitHub  \ud83d\udc68\u200d\ud83d\udcbb | Boost Your Productivity Instantly! #shorts",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 320498,
+      "likes": 7238,
+      "comments": 5902,
+      "like_to_view_ratio": 0.0226,
+      "comment_to_view_ratio": 0.0184
+    },
+    "popularity_score": 352680,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Clean your Gmail inbox with N8N: here's how",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 4566,
+      "likes": 94,
+      "comments": 34,
+      "like_to_view_ratio": 0.0206,
+      "comment_to_view_ratio": 0.0074
+    },
+    "popularity_score": 4856,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Build a WhatsApp Agent with n8n (credential tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 196849,
+      "likes": 3545,
+      "comments": 376,
+      "like_to_view_ratio": 0.018,
+      "comment_to_view_ratio": 0.0019
+    },
+    "popularity_score": 205067,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 787978,
+      "likes": 20481,
+      "comments": 403,
+      "like_to_view_ratio": 0.026,
+      "comment_to_view_ratio": 0.0005
+    },
+    "popularity_score": 830149,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Build a N8N WhatsApp Chatbot For ANY Business (FREE Template)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 13703,
+      "likes": 0,
+      "comments": 15,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0011
+    },
+    "popularity_score": 13748,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "N8N Tutorial: Build N8N Whatsapp Chatbot! (Easy Method)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 227317,
+      "likes": 5016,
+      "comments": 408,
+      "like_to_view_ratio": 0.0221,
+      "comment_to_view_ratio": 0.0018
+    },
+    "popularity_score": 238573,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n WhatsApp Tutorial: Setup an AI Agent in Minutes (Easy)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 35612,
+      "likes": 1004,
+      "comments": 186,
+      "like_to_view_ratio": 0.0282,
+      "comment_to_view_ratio": 0.0052
+    },
+    "popularity_score": 38178,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Automate WhatsApp Orders with n8n + Google Sheets (No Code Needed)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 180662,
+      "likes": 4904,
+      "comments": 300,
+      "like_to_view_ratio": 0.0271,
+      "comment_to_view_ratio": 0.0017
+    },
+    "popularity_score": 191370,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Build WhatsApp AI Agents in 30 Seconds using n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 84831,
+      "likes": 1166,
+      "comments": 214,
+      "like_to_view_ratio": 0.0137,
+      "comment_to_view_ratio": 0.0025
+    },
+    "popularity_score": 87805,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build A WhatsApp AI Agent In 10 Minutes (n8n Tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 8661,
+      "likes": 173,
+      "comments": 35,
+      "like_to_view_ratio": 0.02,
+      "comment_to_view_ratio": 0.004
+    },
+    "popularity_score": 9112,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Tutorial: Connect WhatsApp AI Agent in n8n with Google Sheets",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 274616,
+      "likes": 6148,
+      "comments": 86,
+      "like_to_view_ratio": 0.0224,
+      "comment_to_view_ratio": 0.0003
+    },
+    "popularity_score": 287170,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n WhatsApp Chatbot Tutorial",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 776,
+      "likes": 10,
+      "comments": 8,
+      "like_to_view_ratio": 0.0129,
+      "comment_to_view_ratio": 0.0103
+    },
+    "popularity_score": 820,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 75195,
+      "likes": 1964,
+      "comments": 101,
+      "like_to_view_ratio": 0.0261,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 79426,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp AI Agent analyzes Google Sheets, n8n tutorial without coding #n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 403867,
+      "likes": 17729,
+      "comments": 201,
+      "like_to_view_ratio": 0.0439,
+      "comment_to_view_ratio": 0.0005
+    },
+    "popularity_score": 439928,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build your first WhatsApp Chatbot only using an AI Agent in n8n, not even code #aiautomation",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 29322,
+      "likes": 687,
+      "comments": 29,
+      "like_to_view_ratio": 0.0234,
+      "comment_to_view_ratio": 0.001
+    },
+    "popularity_score": 30783,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build A WhatsApp AI Agent In 10 Minutes (n8n Tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 7772,
+      "likes": 277,
+      "comments": 37,
+      "like_to_view_ratio": 0.0356,
+      "comment_to_view_ratio": 0.0048
+    },
+    "popularity_score": 8437,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp AI Agent uses Google Sheets to automatically analyze your sheets (n8n tutorial no code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 101943,
+      "likes": 4337,
+      "comments": 149,
+      "like_to_view_ratio": 0.0425,
+      "comment_to_view_ratio": 0.0015
+    },
+    "popularity_score": 111064,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect WhatsApp To n8n (full guide)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1805,
+      "likes": 31,
+      "comments": 27,
+      "like_to_view_ratio": 0.0172,
+      "comment_to_view_ratio": 0.015
+    },
+    "popularity_score": 1948,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This is how you integrate the new ChatGPT-5 in an WhatsApp AI Agent in #n8n Tutorial",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 23793,
+      "likes": 491,
+      "comments": 19,
+      "like_to_view_ratio": 0.0206,
+      "comment_to_view_ratio": 0.0008
+    },
+    "popularity_score": 24832,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Cara Bikin WhatsApp Chatbot 24/7 dengan n8n + WAHA (Tutorial Lengkap untuk Bisnis & UMKM)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 8773,
+      "likes": 295,
+      "comments": 69,
+      "like_to_view_ratio": 0.0336,
+      "comment_to_view_ratio": 0.0079
+    },
+    "popularity_score": 9570,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to quickly setup a WhatsApp automation using no-code tool #n8n",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3402,
+      "likes": 129,
+      "comments": 0,
+      "like_to_view_ratio": 0.0379,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 3660,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build your first AI Agent using WhatsApp and ChatGPT with no Code in n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 122796,
+      "likes": 2207,
+      "comments": 154,
+      "like_to_view_ratio": 0.018,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 127672,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a WhatsApp AI Agent Appointment Setter in n8n (Step by Step + No-Code)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 84592,
+      "likes": 2086,
+      "comments": 276,
+      "like_to_view_ratio": 0.0247,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 89592,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "The Ultimate N8N WhatsApp AI Agent (Free Setup) 2026",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2507,
+      "likes": 84,
+      "comments": 15,
+      "like_to_view_ratio": 0.0335,
+      "comment_to_view_ratio": 0.006
+    },
+    "popularity_score": 2720,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect WhatsApp to N8N (Step-by-Step Tutorial)",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 152202,
+      "likes": 3907,
+      "comments": 322,
+      "like_to_view_ratio": 0.0257,
+      "comment_to_view_ratio": 0.0021
+    },
+    "popularity_score": 160982,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Automate WhatsApp replies with AI. No tech skills needed#ai #automation #productivity #n8n #whatsapp",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 5003,
+      "likes": 80,
+      "comments": 4,
+      "like_to_view_ratio": 0.016,
+      "comment_to_view_ratio": 0.0008
+    },
+    "popularity_score": 5175,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp Receipt AI Agent #n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4437,
+      "likes": 120,
+      "comments": 11,
+      "like_to_view_ratio": 0.027,
+      "comment_to_view_ratio": 0.0025
+    },
+    "popularity_score": 4710,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 787978,
+      "likes": 20481,
+      "comments": 403,
+      "like_to_view_ratio": 0.026,
+      "comment_to_view_ratio": 0.0005
+    },
+    "popularity_score": 830149,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Build a N8N WhatsApp Chatbot For ANY Business (FREE Template)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 13703,
+      "likes": 0,
+      "comments": 15,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0011
+    },
+    "popularity_score": 13748,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Complete Course (Beginner to Advanced) | WhatsApp Automation Project",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 446922,
+      "likes": 18313,
+      "comments": 1487,
+      "like_to_view_ratio": 0.041,
+      "comment_to_view_ratio": 0.0033
+    },
+    "popularity_score": 488009,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Build a WhatsApp Agent with n8n (credential tutorial)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 196849,
+      "likes": 3545,
+      "comments": 376,
+      "like_to_view_ratio": 0.018,
+      "comment_to_view_ratio": 0.0019
+    },
+    "popularity_score": 205067,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp AI Agent analyzes Google Sheets, n8n tutorial without coding #n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 403867,
+      "likes": 17729,
+      "comments": 201,
+      "like_to_view_ratio": 0.0439,
+      "comment_to_view_ratio": 0.0005
+    },
+    "popularity_score": 439928,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Tutorial: Connect WhatsApp AI Agent in n8n with Google Sheets",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 274616,
+      "likes": 6148,
+      "comments": 86,
+      "like_to_view_ratio": 0.0224,
+      "comment_to_view_ratio": 0.0003
+    },
+    "popularity_score": 287170,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build your first Google sheets Agent only with WhatsApp and ChatGPT in #n8n #aiautomation (NO CODE)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 75193,
+      "likes": 1964,
+      "comments": 101,
+      "like_to_view_ratio": 0.0261,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 79424,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n WhatsApp Chatbot Tutorial",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 776,
+      "likes": 10,
+      "comments": 8,
+      "like_to_view_ratio": 0.0129,
+      "comment_to_view_ratio": 0.0103
+    },
+    "popularity_score": 820,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build your first AI Agent using WhatsApp and ChatGPT with no Code in n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 122796,
+      "likes": 2207,
+      "comments": 154,
+      "like_to_view_ratio": 0.018,
+      "comment_to_view_ratio": 0.0013
+    },
+    "popularity_score": 127672,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build a Complete WhatsApp AI Agent using n8n (Step-by-Step Tutorial)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 7949,
+      "likes": 249,
+      "comments": 48,
+      "like_to_view_ratio": 0.0313,
+      "comment_to_view_ratio": 0.006
+    },
+    "popularity_score": 8591,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp AI Agent uses Google Sheets to automatically analyze your sheets (n8n tutorial no code)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 101943,
+      "likes": 4337,
+      "comments": 149,
+      "like_to_view_ratio": 0.0425,
+      "comment_to_view_ratio": 0.0015
+    },
+    "popularity_score": 111064,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to Connect WhatsApp Real Number to N8n (Complete WhatsApp AI Agent Tutorial)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 4803,
+      "likes": 222,
+      "comments": 64,
+      "like_to_view_ratio": 0.0462,
+      "comment_to_view_ratio": 0.0133
+    },
+    "popularity_score": 5439,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "This is how you integrate the new ChatGPT-5 in an WhatsApp AI Agent in #n8n Tutorial",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 23793,
+      "likes": 491,
+      "comments": 19,
+      "like_to_view_ratio": 0.0206,
+      "comment_to_view_ratio": 0.0008
+    },
+    "popularity_score": 24832,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Build A WhatsApp AI Agent In 10 Minutes (n8n Tutorial)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 7772,
+      "likes": 277,
+      "comments": 37,
+      "like_to_view_ratio": 0.0356,
+      "comment_to_view_ratio": 0.0048
+    },
+    "popularity_score": 8437,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to quickly setup a WhatsApp automation using no-code tool #n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 3402,
+      "likes": 129,
+      "comments": 0,
+      "like_to_view_ratio": 0.0379,
+      "comment_to_view_ratio": 0.0
+    },
+    "popularity_score": 3660,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n Complete Course (Beginner to Advanced) | WhatsApp Automation Project",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 319,
+      "likes": 9,
+      "comments": 4,
+      "like_to_view_ratio": 0.0282,
+      "comment_to_view_ratio": 0.0125
+    },
+    "popularity_score": 349,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "N8N Tutorial: Build N8N Whatsapp Chatbot! (Easy Method)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 227317,
+      "likes": 5016,
+      "comments": 408,
+      "like_to_view_ratio": 0.0221,
+      "comment_to_view_ratio": 0.0018
+    },
+    "popularity_score": 238573,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "The Ultimate N8N WhatsApp AI Agent (Free Setup) 2026",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 2507,
+      "likes": 84,
+      "comments": 15,
+      "like_to_view_ratio": 0.0335,
+      "comment_to_view_ratio": 0.006
+    },
+    "popularity_score": 2720,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Automate WhatsApp replies with AI. No tech skills needed#ai #automation #productivity #n8n #whatsapp",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 5003,
+      "likes": 80,
+      "comments": 4,
+      "like_to_view_ratio": 0.016,
+      "comment_to_view_ratio": 0.0008
+    },
+    "popularity_score": 5175,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp Receipt AI Agent #n8n #aiautomation",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 4437,
+      "likes": 120,
+      "comments": 11,
+      "like_to_view_ratio": 0.027,
+      "comment_to_view_ratio": 0.0025
+    },
+    "popularity_score": 4710,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How To Connect WhatsApp To n8n (full guide)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 1805,
+      "likes": 31,
+      "comments": 27,
+      "like_to_view_ratio": 0.0172,
+      "comment_to_view_ratio": 0.015
+    },
+    "popularity_score": 1948,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "Client Was Drowning in WhatsApp Orders \u2014 I Automated It with n8n",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 5255,
+      "likes": 78,
+      "comments": 11,
+      "like_to_view_ratio": 0.0148,
+      "comment_to_view_ratio": 0.0021
+    },
+    "popularity_score": 5444,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "How to build WhatsApp AI Agent using n8n (Step-by-Step Guide) | Hindi Videos",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 59660,
+      "likes": 1091,
+      "comments": 133,
+      "like_to_view_ratio": 0.0183,
+      "comment_to_view_ratio": 0.0022
+    },
+    "popularity_score": 62241,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "WhatsApp AI Agent in under 30 Minutes",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 13997,
+      "likes": 478,
+      "comments": 97,
+      "like_to_view_ratio": 0.0342,
+      "comment_to_view_ratio": 0.0069
+    },
+    "popularity_score": 15244,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": "n8n WhatsApp Tutorial: Setup an AI Agent in Minutes (Easy)",
+    "platform": "YouTube",
+    "country": "IN",
+    "popularity_metrics": {
+      "views": 35612,
+      "likes": 1004,
+      "comments": 186,
+      "like_to_view_ratio": 0.0282,
+      "comment_to_view_ratio": 0.0052
+    },
+    "popularity_score": 38178,
+    "evidence_source": "YouTube Data API v3"
+  },
+  {
+    "workflow": ":mega: We Need Your Help! (Answer & Earn)",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 123,
+      "likes": 746,
+      "contributors": 0,
+      "views": 49820
+    },
+    "popularity_score": 19168.0,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Welcome to the n8n Community!",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 81,
+      "contributors": 0,
+      "views": 15918
+    },
+    "popularity_score": 5180.4,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Import .csv data into n8n data table",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 0,
+      "contributors": 0,
+      "views": 6
+    },
+    "popularity_score": 5.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Error: Bad Request with redirect uri mismatch - The error I am getting when trying to connect with a Google Drive Credential",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 7,
+      "likes": 10,
+      "contributors": 0,
+      "views": 27
+    },
+    "popularity_score": 86.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "N8n doesn't give OAuth redirect url",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 7,
+      "likes": 3,
+      "contributors": 0,
+      "views": 29
+    },
+    "popularity_score": 51.7,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Problem in passing data of previous node to the current node",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 4,
+      "likes": 3,
+      "contributors": 0,
+      "views": 23
+    },
+    "popularity_score": 37.9,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Error publishing file to YouTube",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 0,
+      "contributors": 0,
+      "views": 13
+    },
+    "popularity_score": 11.9,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Whatsapp template using chatwoot",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 0,
+      "contributors": 0,
+      "views": 24
+    },
+    "popularity_score": 15.2,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Help with Prometheus metrics understanding",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 0,
+      "contributors": 0,
+      "views": 11
+    },
+    "popularity_score": 11.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "OAuth2 API",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 11
+    },
+    "popularity_score": 3.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "N8n Cloud Google Drive OAuth2 failing: redirect_uri_mismatch (Gmail + Workspace)",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 8,
+      "contributors": 0,
+      "views": 76
+    },
+    "popularity_score": 70.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Code node task was not matched to a runner within the timeout period",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 32
+    },
+    "popularity_score": 9.6,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "400 redirect_",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 5,
+      "likes": 10,
+      "contributors": 0,
+      "views": 50
+    },
+    "popularity_score": 85.0,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Credentials through Google Console - help",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 1,
+      "contributors": 0,
+      "views": 280
+    },
+    "popularity_score": 97.0,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "WhatsApp Trigger n8n still in listening mode",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 0,
+      "contributors": 0,
+      "views": 18
+    },
+    "popularity_score": 9.399999999999999,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "N8n_runners_max_old_space_size",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 0,
+      "contributors": 0,
+      "views": 14
+    },
+    "popularity_score": 8.2,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "I-doit CMDB & IT Documentation - Node",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 7,
+      "contributors": 0,
+      "views": 751
+    },
+    "popularity_score": 260.29999999999995,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Migration AddActiveVersionIdColumn fails during n8n 1.21.x \u2192 2.1.1 upgrade",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 7
+    },
+    "popularity_score": 2.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Got an <Empty response>",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 0,
+      "contributors": 0,
+      "views": 16
+    },
+    "popularity_score": 12.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Code node external node error",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 8
+    },
+    "popularity_score": 2.4,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "N8n 2.0 Python Code node blocks all imports (stdlib & external) \u2013 how to configure permissions?",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 1,
+      "contributors": 0,
+      "views": 202
+    },
+    "popularity_score": 73.6,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Hiring n8n Developers\u2013 Remote Role! Book 15-Min Call Sun-Mon-Tue (1-4pm EAT)",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 1,
+      "contributors": 0,
+      "views": 102
+    },
+    "popularity_score": 35.599999999999994,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "\"EBADF: bad file descriptor, write\" error in Write File to Disk node with append option after upgrading from 2.0.2 to 2.1.2",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 10
+    },
+    "popularity_score": 3.0,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "How to converge two branches when only one branch runs?",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 8
+    },
+    "popularity_score": 2.4,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Stay in Subworkflow",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 7
+    },
+    "popularity_score": 2.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "I am unable to display the required \u201cq\u201d field in SerpAPI when I add it to my AI agent",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 0,
+      "contributors": 0,
+      "views": 412
+    },
+    "popularity_score": 127.6,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Whatsapp not sending back messages",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 0,
+      "contributors": 0,
+      "views": 164
+    },
+    "popularity_score": 53.199999999999996,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Introducing NoCashGaming \u2013 Automated Free Game Tracker Using n8n",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 3,
+      "contributors": 0,
+      "views": 752
+    },
+    "popularity_score": 240.6,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Error One document per item expected when update mode in supabase vector",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 2
+    },
+    "popularity_score": 0.6,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Google Drive Trigger polling not working (502/524 errors on activation)",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 3
+    },
+    "popularity_score": 0.8999999999999999,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "US",
+    "popularity_metrics": {
+      "average_interest": 1
+    },
+    "evidence_source": "Google Trends"
+  },
+  {
+    "workflow": "n8n slack integration",
+    "platform": "Google",
+    "country": "IN",
+    "popularity_metrics": {
+      "average_interest": 1
+    },
+    "evidence_source": "Google Trends"
+  }
+]
