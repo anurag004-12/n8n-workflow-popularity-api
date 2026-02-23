@@ -4,3 +4,16 @@ This project is an automation system built using n8n that integrates multiple AP
 It uses YouTube API, Google Cloud services, and AI logic to automate workflows such as data extraction, filtering, analysis, and delivery without manual effort.
 The system demonstrates how workflow automation + API integration + cloud computing can be combined to build intelligent automation pipelines.
 
+🎯 Objectives
+
+Automate repetitive digital tasks
+
+Integrate multiple APIs into a single workflow
+
+Build scalable automation pipelines
+
+Reduce manual work using intelligent workflows
+
+Demonstrate real-world automation engineering
+
+
