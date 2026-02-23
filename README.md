@@ -16,4 +16,57 @@ Reduce manual work using intelligent workflows
 
 Demonstrate real-world automation engineering
 
+🧠 Features
+
+🔗 API integration (YouTube API, Cloud APIs)
+
+⚙️ Automated workflow execution
+
+🔁 Trigger-based automation
+
+📊 Data extraction and processing
+
+🧠 Smart filtering logic
+
+☁️ Cloud-based execution
+
+🔐 Secure API key handling
+
+📈 Scalable workflow design
+
+System Architecture:
+
+Trigger → API Request → Data Processing → Filtering → Storage/Output → Notification/Usage
+
+Core Components:
+
+n8n workflow engine
+
+Cloud services
+
+REST APIs
+
+Automation logic
+
+Python integration
+
+Environment variable security
+
+🧰 Tech Stack
+
+Automation Platform: n8n
+
+Language: Python
+
+APIs: YouTube Data API, Google Cloud APIs
+
+Cloud: Google Cloud Platform (GCP)
+
+Tools: REST APIs, Webhooks
+
+Security: .env, API key management
+
+Version Control: Git, GitHub
+
+
 
