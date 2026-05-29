@@ -9,7 +9,7 @@ def fetch_trends(keyword, country):
         pytrends.build_payload(
             [keyword],
             timeframe="today 3-m",
-            geo=country
+            geo=country,
         )
 
         data = pytrends.interest_over_time()
@@ -24,10 +24,10 @@ def fetch_trends(keyword, country):
             "platform": "Google",
             "country": country,
             "popularity_metrics": {
-                "average_interest": value
+                "average_interest": value,
             },
             "popularity_score": value,
-            "evidence_source": "Google Trends"
+            "evidence_source": "Google Trends",
         }
 
     except Exception as e:

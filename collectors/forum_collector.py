@@ -13,7 +13,6 @@ def fetch_forum_workflows(limit=50):
     data = response.json()
 
     results = []
-
     topics = data.get("topic_list", {}).get("topics", [])
 
     for topic in topics[:limit]:
@@ -30,14 +29,10 @@ def fetch_forum_workflows(limit=50):
                 "replies": replies,
                 "likes": likes,
                 "contributors": contributors,
-                "views": views
+                "views": views,
             },
-            "popularity_score": (
-                views * 0.3 +
-                replies * 4 +
-                likes * 5
-            ),
-            "evidence_source": "Discourse API (n8n Forum)"
+            "popularity_score": views * 0.3 + replies * 4 + likes * 5,
+            "evidence_source": "Discourse API (n8n Forum)",
         })
 
     return results

@@ -2,7 +2,7 @@
 
 This project is an automation system inspired by n8n-style workflow automation. It integrates multiple APIs and data sources to automatically collect, process, score, and deliver relevant workflow popularity data.
 
-It uses the YouTube Data API, the n8n Community Forum API, Google Trends, Python, and FastAPI to automate data extraction, filtering, analysis, and API delivery without manual effort. The system demonstrates how workflow automation, API integration, and cloud-ready backend design can be combined to build intelligent automation pipelines.
+It uses the YouTube Data API, the n8n Community Forum API, Google Trends, Python, and FastAPI to automate data extraction, filtering, analysis, and API delivery without manual effort.
 
 ## Objectives
 
@@ -88,13 +88,11 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Create a local `.env` file from `.env.example`:
+Create a local `.env` file from `.env.example`, then replace the placeholder with your YouTube Data API v3 key:
 
 ```env
 YOUTUBE_API_KEY=your-youtube-api-key-here
 ```
-
-Replace the placeholder value with your real YouTube Data API v3 key.
 
 ## Run the API
 

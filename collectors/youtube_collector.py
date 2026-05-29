@@ -1,4 +1,5 @@
 import os
+
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 
@@ -20,7 +21,7 @@ def get_youtube_client():
         "youtube",
         "v3",
         developerKey=api_key,
-        cache_discovery=False
+        cache_discovery=False,
     )
 
 
@@ -33,7 +34,7 @@ def fetch_youtube_workflows(query, country, max_results=25):
         part="snippet",
         maxResults=max_results,
         regionCode=country,
-        type="video"
+        type="video",
     ).execute()
 
     video_ids = [
@@ -46,18 +47,19 @@ def fetch_youtube_workflows(query, country, max_results=25):
 
     stats_response = youtube.videos().list(
         part="statistics,snippet",
-        id=",".join(video_ids)
+        id=",".join(video_ids),
     ).execute()
 
     for item in stats_response.get("items", []):
         stats = item.get("statistics", {})
+        snippet = item.get("snippet", {})
 
         views = int(stats.get("viewCount", 0))
         likes = int(stats.get("likeCount", 0))
         comments = int(stats.get("commentCount", 0))
 
         results.append({
-            "workflow": item["snippet"]["title"],
+            "workflow": snippet.get("title", "Untitled YouTube video"),
             "platform": "YouTube",
             "country": country,
             "popularity_metrics": {
@@ -65,10 +67,10 @@ def fetch_youtube_workflows(query, country, max_results=25):
                 "likes": likes,
                 "comments": comments,
                 "like_to_view_ratio": round(likes / views, 4) if views else 0,
-                "comment_to_view_ratio": round(comments / views, 4) if views else 0
+                "comment_to_view_ratio": round(comments / views, 4) if views else 0,
             },
             "popularity_score": views + (likes * 2) + (comments * 3),
-            "evidence_source": "YouTube Data API v3"
+            "evidence_source": "YouTube Data API v3",
         })
 
     return results
