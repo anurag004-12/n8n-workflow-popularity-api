@@ -1,0 +1,392 @@
+[
+  {
+    "workflow": ":mega: We Need Your Help! (Answer & Earn)",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 152,
+      "likes": 959,
+      "contributors": 0,
+      "views": 69337
+    },
+    "popularity_score": 26204.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Welcome to the n8n Community!",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 107,
+      "contributors": 0,
+      "views": 19221
+    },
+    "popularity_score": 6301.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Executing code from a git repository",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 4,
+      "contributors": 0,
+      "views": 67
+    },
+    "popularity_score": 48.099999999999994,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "CiviCRM node not available on hosted instance",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 1,
+      "contributors": 0,
+      "views": 29
+    },
+    "popularity_score": 21.7,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Is it possible to get a Facebook Page user's name (first name and last name) through an HTTP request when they send a message to my Page?",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 0,
+      "contributors": 0,
+      "views": 10
+    },
+    "popularity_score": 7.0,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Document Loader node fails with \u201cDOMMatrix is not defined\u201d while parsing PDF files",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 7,
+      "likes": 3,
+      "contributors": 0,
+      "views": 59
+    },
+    "popularity_score": 60.7,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Salesforce \"Case created\" node runs multiple times for every case update",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 7,
+      "likes": 1,
+      "contributors": 0,
+      "views": 89
+    },
+    "popularity_score": 59.7,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Should sub-workflows & error workflows be published",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 1,
+      "contributors": 0,
+      "views": 16
+    },
+    "popularity_score": 9.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "How could AI-powered document extraction be most useful in workflow automation?",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 10
+    },
+    "popularity_score": 3.0,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Claude.ai MCP Connector Failing to connect to my self-hosted n8n",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 4,
+      "likes": 3,
+      "contributors": 0,
+      "views": 762
+    },
+    "popularity_score": 259.6,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Magic Link Not Working [Urgent Business Issue]",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 12,
+      "likes": 0,
+      "contributors": 0,
+      "views": 81
+    },
+    "popularity_score": 72.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Sub workflows taking longer than 60 seconds reset parent workflow data",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 17
+    },
+    "popularity_score": 5.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Unable to draw output connections from multiple nodes on self hosted n8n",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 9,
+      "likes": 4,
+      "contributors": 0,
+      "views": 75
+    },
+    "popularity_score": 78.5,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "How to automate invoice PDF generation and email with Airtable in N8N",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 1,
+      "contributors": 0,
+      "views": 8
+    },
+    "popularity_score": 7.4,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Enterprise plan costs",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 17
+    },
+    "popularity_score": 5.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Gmail Autoreply Workflow sent 50 emails to the same person",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 6,
+      "likes": 3,
+      "contributors": 0,
+      "views": 128
+    },
+    "popularity_score": 77.4,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "taskrunner issue",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 25
+    },
+    "popularity_score": 7.5,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Self Hosting community issues",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 2,
+      "likes": 1,
+      "contributors": 0,
+      "views": 56
+    },
+    "popularity_score": 29.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "\ud83d\udce3 HIRING: Freelance/Agency AI Automation Engineer (n8n / Make / APIs) \u2014 Remote",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 9,
+      "contributors": 0,
+      "views": 1561
+    },
+    "popularity_score": 513.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "[HIRING] Business Automation Manager - Remote EU - Perm Contract",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 3,
+      "contributors": 0,
+      "views": 231
+    },
+    "popularity_score": 84.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Hiring: AI Agent Workflow Engineer to help build an open-source self-hosted Voice Agent OS",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 1,
+      "likes": 2,
+      "contributors": 0,
+      "views": 241
+    },
+    "popularity_score": 86.3,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "GHL and N8N - HTTP Connection Failing in workflow",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 5,
+      "likes": 1,
+      "contributors": 0,
+      "views": 56
+    },
+    "popularity_score": 41.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "SQLiteWriteConnectionMutex / Workflow not found - entire n8n cloud workspace locked",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 27
+    },
+    "popularity_score": 8.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Extracting AI Agent Token Usage: 'Get Execution' node returns a massive array of all executions instead of a specific ID.",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 24
+    },
+    "popularity_score": 7.199999999999999,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "AI Agent + Code node OOM crash with ~1-2MB binary on Cloud Starter \u2014 non-deterministic crash point, zero crashes on self-hosted",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 33
+    },
+    "popularity_score": 9.9,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "View live running workflows like you can workflows you have open and trigger",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 17
+    },
+    "popularity_score": 5.1,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Beginner / Level 1 course completed \u2014 badge not received",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 9,
+      "likes": 8,
+      "contributors": 0,
+      "views": 203
+    },
+    "popularity_score": 136.9,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Way to Isolate Credentials Securely in a Multi-Tenant n8n Setup",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 6,
+      "contributors": 0,
+      "views": 75
+    },
+    "popularity_score": 52.5,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Self-hosted n8n: need safest way to reset existing user password without deleting account/data",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 5,
+      "likes": 13,
+      "contributors": 0,
+      "views": 176
+    },
+    "popularity_score": 137.8,
+    "evidence_source": "Discourse API (n8n Forum)"
+  },
+  {
+    "workflow": "Docling on n8n (reposted)",
+    "platform": "Forum",
+    "country": "Global",
+    "popularity_metrics": {
+      "replies": 0,
+      "likes": 0,
+      "contributors": 0,
+      "views": 28
+    },
+    "popularity_score": 8.4,
+    "evidence_source": "Discourse API (n8n Forum)"
+  }
+]

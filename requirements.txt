@@ -1,0 +1,7 @@
+apscheduler
+fastapi
+google-api-python-client
+pytrends
+python-dotenv
+requests
+uvicorn
